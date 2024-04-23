@@ -1,0 +1,28 @@
+body {
+	background-color: #B0E0E6;
+}
+
+h2 {
+	font-family: verdana;
+	color: blue;
+}
+
+h3 {
+	font-family: verdana;
+	color: red;
+}
+#myDIV {
+  width: 300px;
+  height: 200px;
+  background: red;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: gray;}
+  to {background-color: white;}
+}
+div {
+	text-align: center;
+}
+/*Unip, a melhor instituição para a formação de excelentes profissionais!*/
